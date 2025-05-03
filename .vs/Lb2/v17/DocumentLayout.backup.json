@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\lb2\\formcontainerlb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\formcontainerlb2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626DC620-C5C0-4BE8-A1AF-BF73553D3A71}|PeopleTests\\PeopleTests.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\peopletests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626DC620-C5C0-4BE8-A1AF-BF73553D3A71}|PeopleTests\\PeopleTests.csproj|solutionrelative:peopletests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626DC620-C5C0-4BE8-A1AF-BF73553D3A71}|PeopleTests\\PeopleTests.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\peopletests\\peopletests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{626DC620-C5C0-4BE8-A1AF-BF73553D3A71}|PeopleTests\\PeopleTests.csproj|solutionrelative:peopletests\\peopletests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\personargumentexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\personargumentexeption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\myoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\myoverflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|d:\\\u043F\u0433\u0443\\c#\\oop-lb7\\lb2\\formcontainerlb2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62ED5B-30E8-4D0E-BE0D-35B5F9187480}|Lb2\\Lb2.csproj|solutionrelative:lb2\\formcontainerlb2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\Controller.cs",
+              "RelativeDocumentMoniker": "Lb2\\Controller.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\Controller.cs",
+              "RelativeToolTip": "Lb2\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:09:52.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\PeopleTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "PeopleTests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\PeopleTests\\UnitTest1.cs",
+              "RelativeToolTip": "PeopleTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:20:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "People.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\People.cs",
+              "RelativeDocumentMoniker": "Lb2\\People.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\People.cs",
+              "RelativeToolTip": "Lb2\\People.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:08:23.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonArgumentExeption.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\PersonArgumentExeption.cs",
+              "RelativeDocumentMoniker": "Lb2\\PersonArgumentExeption.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\PersonArgumentExeption.cs",
+              "RelativeToolTip": "Lb2\\PersonArgumentExeption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:04:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\Person.cs",
+              "RelativeDocumentMoniker": "Lb2\\Person.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\Person.cs",
+              "RelativeToolTip": "Lb2\\Person.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:03:53.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormContainerLb2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\FormContainerLb2.cs",
+              "RelativeDocumentMoniker": "Lb2\\FormContainerLb2.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\FormContainerLb2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Lb2\\FormContainerLb2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:00:12.182Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeopleTests.csproj",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj",
+              "RelativeDocumentMoniker": "PeopleTests\\PeopleTests.csproj",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj",
+              "RelativeToolTip": "PeopleTests\\PeopleTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T07:22:26.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyOverflowException.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\MyOverflowException.cs",
+              "RelativeDocumentMoniker": "Lb2\\MyOverflowException.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\MyOverflowException.cs",
+              "RelativeToolTip": "Lb2\\MyOverflowException.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA8wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:04:18.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormContainerLb2.Designer.cs",
+              "DocumentMoniker": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\FormContainerLb2.Designer.cs",
+              "RelativeDocumentMoniker": "Lb2\\FormContainerLb2.Designer.cs",
+              "ToolTip": "D:\\\u041F\u0433\u0443\\C#\\OOP-lb7\\Lb2\\FormContainerLb2.Designer.cs",
+              "RelativeToolTip": "Lb2\\FormContainerLb2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T12:00:08.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
