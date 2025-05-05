@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Пгу\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj": {}
+    "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\PeopleTests\\PeopleTests.csproj": {}
   },
   "projects": {
-    "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\Lb2.csproj": {
+    "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\Lb2\\Lb2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\Lb2.csproj",
+        "projectUniqueName": "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\Lb2\\Lb2.csproj",
         "projectName": "Lb2",
-        "projectPath": "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\Lb2.csproj",
-        "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-        "outputPath": "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\obj\\",
+        "projectPath": "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\Lb2\\Lb2.csproj",
+        "packagesPath": "C:\\Users\\Nadezhda_N\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadezhda_N\\Source\\Repos\\lb7-OOP\\Lb2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadezhda_N\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -67,24 +69,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Пгу\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj": {
+    "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\PeopleTests\\PeopleTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Пгу\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj",
+        "projectUniqueName": "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\PeopleTests\\PeopleTests.csproj",
         "projectName": "PeopleTests",
-        "projectPath": "D:\\Пгу\\C#\\OOP-lb7\\PeopleTests\\PeopleTests.csproj",
-        "packagesPath": "C:\\Users\\Мария\\.nuget\\packages\\",
-        "outputPath": "D:\\Пгу\\C#\\OOP-lb7\\PeopleTests\\obj\\",
+        "projectPath": "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\PeopleTests\\PeopleTests.csproj",
+        "packagesPath": "C:\\Users\\Nadezhda_N\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nadezhda_N\\Source\\Repos\\lb7-OOP\\PeopleTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Мария\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nadezhda_N\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -93,14 +95,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows8.0": {
             "targetAlias": "net8.0-windows8.0",
             "projectReferences": {
-              "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\Lb2.csproj": {
-                "projectPath": "D:\\Пгу\\C#\\OOP-lb7\\Lb2\\Lb2.csproj"
+              "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\Lb2\\Lb2.csproj": {
+                "projectPath": "C:\\Users\\Nadezhda_N\\source\\repos\\lb7-OOP\\Lb2\\Lb2.csproj"
               }
             }
           }
@@ -114,7 +117,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows8.0": {
@@ -153,7 +157,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

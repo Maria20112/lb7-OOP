@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lb2
 {
-    internal class People
+    public class People
     {
         /// <summary>
         /// стек

@@ -289,7 +289,7 @@ namespace Lb2
         /// <returns>True, если проверка пройдена, иначе - false</returns>
         static public bool IsRightName(string str)
         {
-            string regex = @"^[A-Za-zА-Яа-яЁё]+((-|')[A-Za-zА-Яа-яЁё]+)*$";
+            string regex = @"^[A-Za-zА-Яа-яЁё]+((-|'| )[A-Za-zА-Яа-яЁё]+)*$";
             return Regex.IsMatch(str, regex);
         }
     }

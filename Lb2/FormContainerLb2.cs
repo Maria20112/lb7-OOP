@@ -11,6 +11,7 @@ namespace Lb2
         /// Обработчик события, выводит данные всех людей
         /// </summary>
         void changeTable() => showAllButton_Click(null, null);
+
         public FormContainerLb2()
         {
             InitializeComponent();
@@ -23,7 +24,7 @@ namespace Lb2
         /// <param name="e"></param>
         private void showAllButton_Click(object sender, EventArgs e)
         {
-            Array all = controller.getPeople().getAll().ToArray();
+            Array all = controller.People.getAll().ToArray();
             showTable.Rows.Clear();
             showTable.Refresh();
             int count = 0;
@@ -61,7 +62,7 @@ namespace Lb2
             try
             {
                 create_err.Text = "";
-                controller.getPeople().NotifyAdd += changeTable;
+                controller.People.NotifyAdd += changeTable;
                 controller.Add(name.Text, surname.Text, (man.Checked) ? "мужской" : "женский",
                     year_of_birth.Text, city.Text, country.Text, height.Text);
                 create_err.Text = "Готово!";
@@ -90,7 +91,8 @@ namespace Lb2
         /// <param name="e"></param>
         private void deleteButton_Click(object sender, EventArgs e)
         {
-            controller.getPeople().NotifyRemove += changeTable;
+            //Обновляет, даже если нет изменений
+            controller.People.NotifyRemove += changeTable;
             controller.Delete((int)number.Value);
         }
         

@@ -6,18 +6,25 @@ using System.Threading.Tasks;
 
 namespace Lb2
 {
-    internal class Controller
+    public class Controller
     {
-        /// <summary>
-        /// Объект класса People, хранит всех созданных людей
-        /// </summary>
-        private People people = new People();
+        //Сделать свойство вместо поля и гетера
+         
+        ///// <summary>
+        ///// Объект класса People, хранит всех созданных людей
+        ///// </summary>
+        //private People people = new People();
+
+        ///// <summary>
+        ///// Функция, возвращающая коллекцию объектов Person
+        ///// </summary>
+        ///// <returns>коллекцию объектов Person</returns>
+        //public People getPeople() { return people; }
 
         /// <summary>
-        /// Функция, возвращающая коллекцию объектов Person
+        /// Свойство, хранящее всех созданных людей
         /// </summary>
-        /// <returns>коллекцию объектов Person</returns>
-        public People getPeople() { return people; }
+        public People People { get; init; } = new People();
 
         /// <summary>
         /// Конструктор
@@ -54,7 +61,7 @@ namespace Lb2
             {
                 newPerson = new Person(person_name, person_surname, person_gender, person_year_of_birth, person_city, person_country, person_height);
             }
-            people.Add(newPerson);
+            People.Add(newPerson);
         }
 
         /// <summary>
@@ -63,7 +70,7 @@ namespace Lb2
         /// <param name="number">номер удаляемого человека</param>
         public void Delete(int number)
         {
-            people.Remove(number);
+            People.Remove(number);
         }
     }
 }
